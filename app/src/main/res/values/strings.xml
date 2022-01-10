@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaApp</string>
+    <string name="name">Mis contactos</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="hint_correo">Correo electronico</string>
+    <string name="hint_nota">Nota adicional</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+</resources>
